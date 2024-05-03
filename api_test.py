@@ -22,7 +22,7 @@ json_url = 'https://huggingface.co/Finovatek/Categorization-Model/raw/main/label
 
 headers = {
     "Accept": "application/json",
-    "Authorization": "Bearer {Add authentication token to use}",
+    "Authorization": "Bearer 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",
     "Content-Type": "application/json" 
 }
 
